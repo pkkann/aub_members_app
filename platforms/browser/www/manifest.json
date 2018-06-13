@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "AUB Members",
+  "short_name": "AUB Members",
+  "version": "dk.aub.membersapp",
+  "description": "A simple app for maintaining and registering group members in AUB",
+  "author": "AUB",
+  "icons": [],
+  "start_url": "index.html"
+}
