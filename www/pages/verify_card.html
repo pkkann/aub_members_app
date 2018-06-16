@@ -1,0 +1,22 @@
+<ons-page id="verify_card">
+    <ons-toolbar>
+        <div class="left">
+            <ons-back-button>Forside</ons-back-button>
+        </div>
+        <div class="center">Verificer beboerkort</div>
+    </ons-toolbar>
+
+    <ons-card>
+        <div class="content" style="display: flex; justify-content: center; align-items: center; flex-direction: column">
+            <p>
+                <ons-input type="number" id="barcode" modifier="underbar" placeholder="Stregkode" float></ons-input>
+            </p>
+            <p>
+                <ons-button id="scanBTN">Scan beboerkort</ons-button>
+            </p>
+            <p>
+                <ons-button id="verifyBTN">Verificer beboerkort</ons-button>
+            </p>
+        </div>
+    </ons-card>
+</ons-page>
