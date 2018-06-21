@@ -259,7 +259,7 @@ module.exports.check_android = function () {
                 maybeSetAndroidHome('/Applications/android-sdk');
             }
             if (process.env['HOME']) {
-                // Stand-alone zip file that user might think to put under their home directory
+                // Stand-alone zip file that user might think to put under their controller directory
                 maybeSetAndroidHome(path.join(process.env['HOME'], 'android-sdk-macosx'));
                 maybeSetAndroidHome(path.join(process.env['HOME'], 'android-sdk'));
             }

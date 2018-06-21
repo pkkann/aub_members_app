@@ -12,6 +12,9 @@
     },
     "phonegap-plugin-barcodescanner": {
       "PACKAGE_NAME": "dk.aub.membersapp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "dk.aub.membersapp"
     }
   },
   "dependent_plugins": {}

@@ -13,6 +13,9 @@
     "phonegap-plugin-barcodescanner": {
       "ANDROID_SUPPORT_V4_VERSION": "27.+",
       "PACKAGE_NAME": "dk.aub.membersapp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "dk.aub.membersapp"
     }
   },
   "dependent_plugins": {}

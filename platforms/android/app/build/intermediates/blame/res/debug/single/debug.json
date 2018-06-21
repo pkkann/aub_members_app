@@ -40,12 +40,12 @@
         "source": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\src\\main\\res\\drawable-port-xhdpi\\screen.png"
     },
     {
-        "merged": "C:\\CordovaProjects\\privat\\aub_members\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi_screen.png.flat",
-        "source": "C:\\CordovaProjects\\privat\\aub_members\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
-    },
-    {
         "merged": "C:\\CordovaProjects\\privat\\aub_members\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi_screen.png.flat",
         "source": "C:\\CordovaProjects\\privat\\aub_members\\platforms\\android\\app\\src\\main\\res\\drawable-land-ldpi\\screen.png"
+    },
+    {
+        "merged": "C:\\CordovaProjects\\privat\\aub_members\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi_screen.png.flat",
+        "source": "C:\\CordovaProjects\\privat\\aub_members\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
     },
     {
         "merged": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
@@ -56,12 +56,12 @@
         "source": "C:\\Users\\pkkan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\4bf9069384e5e048ca0dc0b951fe9380\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_screen.png.flat",
-        "source": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
-    },
-    {
         "merged": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
         "source": "C:\\Users\\pkkan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\df0f3dbbf3a1d9fb48f766c7ed2f922e\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_screen.png.flat",
+        "source": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
     },
     {
         "merged": "C:\\CordovaProjects\\privat\\aub_members\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_icon.png.flat",
@@ -156,12 +156,12 @@
         "source": "C:\\Users\\pkkan\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\2e2a509549b0b2e2149ef09142657af3\\res\\layout\\help.xml"
     },
     {
-        "merged": "C:\\CordovaProjects\\privat\\aub_members\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi_screen.png.flat",
-        "source": "C:\\CordovaProjects\\privat\\aub_members\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
-    },
-    {
         "merged": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_capture.xml.flat",
         "source": "C:\\Users\\pkkan\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\2e2a509549b0b2e2149ef09142657af3\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "C:\\CordovaProjects\\privat\\aub_members\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi_screen.png.flat",
+        "source": "C:\\CordovaProjects\\privat\\aub_members\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
     },
     {
         "merged": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
@@ -180,12 +180,12 @@
         "source": "C:\\Users\\pkkan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\df0f3dbbf3a1d9fb48f766c7ed2f922e\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxhdpi_screen.png.flat",
-        "source": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxhdpi\\screen.png"
-    },
-    {
         "merged": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_capture.xml.flat",
         "source": "C:\\Users\\pkkan\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\2e2a509549b0b2e2149ef09142657af3\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxhdpi_screen.png.flat",
+        "source": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxhdpi\\screen.png"
     },
     {
         "merged": "C:\\Users\\pkkan\\cordova\\aub_members_app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",

@@ -96,7 +96,7 @@ String getAndroidSdkDir() {
     def androidSdkDir = null
     String envVar = System.getenv("ANDROID_HOME")
     def localProperties = new File(rootDir, 'local.properties')
-    String systemProperty = System.getProperty("android.home")
+    String systemProperty = System.getProperty("android.controller")
     if (envVar != null) {
         androidSdkDir = envVar
     } else if (localProperties.exists()) {

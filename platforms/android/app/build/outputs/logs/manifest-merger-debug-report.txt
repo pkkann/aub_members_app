@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
-INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
-INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
-INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+ADDED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
 MERGED from [:barcodescanner-release-2.1.5:] C:\Users\pkkan\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\2e2a509549b0b2e2149ef09142657af3\AndroidManifest.xml:2:1-14:12
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\pkkan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7c2714879ad6c4cc8eced9203ba1c3a1\AndroidManifest.xml:17:1-22:12
 MERGED from [:CordovaLib] C:\Users\pkkan\cordova\aub_members_app\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
@@ -16,9 +16,9 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pkkan\.gradle\caches
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pkkan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e59874ff8acbbcabfe5b26f1edf6fdf9\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pkkan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ab3db143a9b0c19b140fa5570830bb32\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pkkan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9c12c3b8a34c44d0a985dc828998af47\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
-INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
-INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:1-20:12
 	package
 		ADDED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:2:102-129
 		INJECTED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml
@@ -155,3 +155,7 @@ ADDED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main
 		ADDED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:18:58-81
 	android:name
 		ADDED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:18:19-57
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from C:\Users\pkkan\cordova\aub_members_app\platforms\android\app\src\main\AndroidManifest.xml:19:22-76
