@@ -4,6 +4,10 @@ var home = {
             router.loadPage("verify_card");
         });
 
+        $("#myUserBTN").click(function() {
+            router.loadPage("my_user");
+        });
+
         $("#logoutBTN").click(function() {
             login.logout();
         });
